@@ -1,0 +1,5 @@
+Repositorio: RepositorioBryanDominguez
+Descripción: Herramientas de software Espacio Bryan
+Control de versiones: Git
+----------------------------------------
+Git no guarda los archivos completos cada vez que haces un cambio, sino que almacena instantáneas (snapshots) de los archivos que han cambiado. Esto lo hace mucho más eficiente que otros sistemas de control de versiones que guardaban las versiones como una lista de diferencias (deltas).
